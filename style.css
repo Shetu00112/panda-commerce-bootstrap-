@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-bottom: 100px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.caro{
+    background:#fceae8 ;
+    border-radius: 10px;
+}
+.price{
+    color : #FF136F;
+}
+.buy{
+    background-image: linear-gradient(to bottom, #FF136F 0%, #FF136F 100%);
+    padding: 9px 24px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+.cat-1, .cat-2, .cat-3{
+    margin-bottom: 20px;
+    padding: 0 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.cat-1{
+    background: red;
+}
+.cat-2{
+    background: red;
+}
+.cat-3{
+    background: red;
+}
+.footer{
+    padding: 50px 20px;
+}
+.footer .buy{
+   margin: 20px 0;
+}
